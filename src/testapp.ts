@@ -1,14 +1,17 @@
 import { flattenMonsters } from "./parser/flatten";
-import { analyzeSeasons } from "./parser/analyzeSeasons";
-import { mergeTierPoints } from "./parser/mergeTierPoints";
+import { analyzeLocations } from "./parser/analyzeLocations";
 
 const encounters = flattenMonsters();
-const analysis = analyzeSeasons(encounters);
-const recommendations = mergeTierPoints(analysis);
+const locations = analyzeLocations(encounters);
 
 console.log(
   JSON.stringify(
-    recommendations.find((pokemon) => pokemon.pokemonId === 10),
+    locations.find(
+      (location) =>
+        location.location === "Route 212 (North)" &&
+        location.method === "Grass" &&
+        location.season === "Summer"
+    ),
     null,
     2
   )

@@ -28,7 +28,7 @@ const cleaned = monsters
       .map((location) => ({
         season: location.season,
         region: location.region_name,
-        location: location.location_name,
+        location: location.location_name_full,
         method: location.type,
         encounterRate: {
           morning: location.rarity_morning,
