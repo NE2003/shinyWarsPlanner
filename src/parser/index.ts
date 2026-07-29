@@ -1,0 +1,1 @@
+export { flattenMonsters } from "./flatten";
