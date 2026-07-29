@@ -4,7 +4,7 @@ import type { Season } from "./season";
 export type LocationAnalysis = {
   region: string;
   location: string;
-  locationId: Number;
+  locationId: number;
   method: string;
   season: Season;
 
