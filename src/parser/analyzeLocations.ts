@@ -10,6 +10,7 @@ export function analyzeLocations(
   for (const encounter of encounters) {
     const key = [
       encounter.region,
+      encounter.locationId,
       encounter.location,
       encounter.method,
       encounter.season,
@@ -29,12 +30,13 @@ export function analyzeLocations(
     const first = encounters[0];
 
     analyses.push({
-      region: first.region,
-      location: first.location,
-      method: first.method,
-      season: first.season,
-      encounters,
-    });
+  region: first.region,
+  locationId: first.locationId,
+  location: first.location,
+  method: first.method,
+  season: first.season,
+  encounters,
+});
   }
 
   return analyses;

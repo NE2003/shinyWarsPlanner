@@ -79,6 +79,7 @@ export function flattenMonsters(): FlattenedEncounter[] {
 
         region: location.region,
         location: location.location,
+        locationId: location.locationID,
 
         encounterRate: {
           morning: parseEncounterRate(location.encounterRate.morning, method),

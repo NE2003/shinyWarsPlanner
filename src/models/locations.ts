@@ -1,9 +1,10 @@
-import type { FlattenedEncounter } from "../models/FlattenedEncounter";
-import type { Season } from "../models/season";
+import type { FlattenedEncounter } from "./FlattenedEncounter";
+import type { Season } from "./season";
 
 export type LocationAnalysis = {
   region: string;
   location: string;
+  locationId: Number;
   method: string;
   season: Season;
 

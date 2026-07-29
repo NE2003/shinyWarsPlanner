@@ -12,6 +12,7 @@ export type FlattenedEncounter = {
   method: EncounterMethod;
   region: string;
   location: string;
+  locationId: number;
   encounterRate: EncounterRate;
   hordeType: HordeType;
 };

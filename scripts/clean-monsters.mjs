@@ -29,6 +29,7 @@ const cleaned = monsters
         season: location.season,
         region: location.region_name,
         location: location.location_name_full,
+        locationID: location.location_id,
         method: location.type,
         encounterRate: {
           morning: location.rarity_morning,

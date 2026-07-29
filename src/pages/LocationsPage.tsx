@@ -36,12 +36,17 @@ export default function LocationsPage({
       <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
         {filteredLocations.map((location) => (
           <div
-            key={`${location.region}-${location.location}-${location.method}-${location.season}`}
+            key={`${location.region}-${location.locationId}-${location.method}-${location.season}`}
             className="rounded-xl bg-slate-800 p-5 shadow"
           >
             <div className="flex items-start justify-between">
               <div>
-                <h2 className="text-xl font-bold">{location.location}</h2>
+                <h2 className="text-xl font-bold">
+                  {location.location}
+                  <span className="ml-2 text-sm font-normal text-slate-400">
+                    #{location.locationId}
+                  </span>
+                </h2>
 
                 <p className="mt-1 text-sm text-slate-400">
                   {location.region} • {location.method}
