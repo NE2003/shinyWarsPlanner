@@ -108,7 +108,7 @@ const bestSeasons = Object.entries(bestEncounterBySeason)
   })
   .map(([season]) => season as Season);
 
-    analyses.push({
+analyses.push({
   pokemonId: first.pokemonId,
   pokemonName: first.pokemonName,
 
@@ -117,7 +117,7 @@ const bestSeasons = Object.entries(bestEncounterBySeason)
   availableSeasons,
 
   bestEncounterBySeason,
-  bestSeasons: [],
+  bestSeasons,
 
   exclusiveSeason:
     availableSeasons.length === 1
