@@ -4,114 +4,214 @@ export const tierPoints: Record<number, number> = {
   4: 50,   // Charmander
   7: 50,   // Squirtle
   133: 50,   // Eevee
+  134: 50,   // Vaporeon
+  135: 50,   // Jolteon
+  136: 50,   // Flareon
+  196: 50,   // Espeon
+  197: 50,   // Umbreon
+  470: 50,   // Leafeon
+  471: 50,   // Glaceon
   137: 50,   // Porygon
+  233: 50,   // Porygon2
+  474: 50,   // Porygon-Z
   143: 50,   // Snorlax
+  446: 50,   // Munchlax
   152: 50,   // Chikorita
+  153: 50,   // Bayleef
+  154: 50,   // Meganium
   155: 50,   // Cyndaquil
+  156: 50,   // Quilava
+  157: 50,   // Typhlosion
   158: 50,   // Totodile
+  159: 50,   // Croconaw
+  160: 50,   // Feraligatr
   175: 50,   // Togepi
+  176: 50,   // Togetic
+  468: 50,   // Togekiss
   236: 50,   // Tyrogue
+  106: 50,   // Hitmonlee
+  107: 50,   // Hitmonchan
+  237: 50,   // Hitmontop
   252: 50,   // Treecko
+  253: 50,   // Grovyle
+  254: 50,   // Sceptile
   255: 50,   // Torchic
+  256: 50,   // Combusken
+  257: 50,   // Blaziken
   258: 50,   // Mudkip
+  259: 50,   // Marshtomp
+  260: 50,   // Swampert
   292: 50,   // Shedinja
   374: 50,   // Beldum
+  375: 50,   // Metang
+  376: 50,   // Metagross
   387: 50,   // Turtwig
+  388: 50,   // Grotle
+  389: 50,   // Torterra
   390: 50,   // Chimchar
+  391: 50,   // Monferno
+  392: 50,   // Infernape
   393: 50,   // Piplup
+  394: 50,   // Prinplup
+  395: 50,   // Empoleon
   447: 50,   // Riolu
+  448: 50,   // Lucario
   479: 50,   // Rotom
   495: 50,   // Snivy
+  496: 50,   // Servine
+  497: 50,   // Serperior
   498: 50,   // Tepig
+  499: 50,   // Pignite
+  500: 50,   // Emboar
   501: 50,   // Oshawott
+  502: 50,   // Dewott
+  503: 50,   // Samurott
 
   // 45 points
-  113: 45, // Chansey
-  115: 45, // Kangaskhan
+  113: 45,   // Chansey
+  440: 45,   // Happiny
+  242: 45,   // Blissey
+  115: 45,   // Kangaskhan
   123: 45,   // Scyther
+  212: 45,   // Scizor
   127: 45,   // Pinsir
   185: 45,   // Sudowoodo
+  438: 45,   // Bonsly
   227: 45,   // Skarmory
   285: 45,   // Shroomish
+  286: 45,   // Breloom
   287: 45,   // Slakoth
+  288: 45,   // Vigoroth
+  289: 45,   // Slaking
   300: 45,   // Skitty
+  301: 45,   // Delcatty
   311: 45,   // Plusle
   312: 45,   // Minun
   316: 45,   // Gulpin
+  317: 45,   // Swalot
   351: 45,   // Castform
   359: 45,   // Absol
   412: 45,   // Burmy
+  413: 45,   // Wormadam
+  414: 45,   // Mothim
   415: 45,   // Combee
+  416: 45,   // Vespiquen
   420: 45,   // Cherubi
+  421: 45,   // Cherrim
   442: 45,   // Spiritomb
   451: 45,   // Skorupi
+  452: 45,   // Drapion
   455: 45,   // Carnivine
   511: 45,   // Pansage
   513: 45,   // Pansear
   515: 45,   // Panpour
   529: 45,   // Drilbur
+  530: 45,   // Excadrill
   531: 45,   // Audino
   580: 45,   // Ducklett
+  581: 45,   // Swanna
   587: 45,   // Emolga
   594: 45,   // Alomomola
   636: 45,   // Larvesta
+  637: 45,   // Volcarona
 
   // 40 points
-  35: 40, // Clefairy
-  90: 40, // Shellder
+  35: 40,   // Clefairy
+  173: 40,   // Cleffa
+  90: 40,   // Shellder
   122: 40,   // Mr. Mime
+  439: 40,   // Mime Jr.
   131: 40,   // Lapras
   138: 40,   // Omanyte
+  139: 40,   // Omastar
   140: 40,   // Kabuto
+  141: 40,   // Kabutops
   142: 40,   // Aerodactyl
   190: 40,   // Aipom
+  424: 40,   // Ambipom
   204: 40,   // Pineco
+  205: 40,   // Forretress
   211: 40,   // Qwilfish
   213: 40,   // Shuckle
   222: 40,   // Corsola
   228: 40,   // Houndour
+  229: 40,   // Houndoom
   241: 40,   // Miltank
   280: 40,   // Ralts
+  281: 40,   // Kirlia
+  282: 40,   // Gardevoir
+  475: 40,   // Gallade
   290: 40,   // Nincada
+  291: 40,   // Ninjask
   345: 40,   // Lileep
+  346: 40,   // Cradily
   347: 40,   // Anorith
+  348: 40,   // Armaldo
   349: 40,   // Feebas
+  350: 40,   // Milotic
   369: 40,   // Relicanth
   371: 40,   // Bagon
+  372: 40,   // Shelgon
+  373: 40,   // Salamence
   408: 40,   // Cranidos
+  409: 40,   // Rampardos
   410: 40,   // Shieldon
+  411: 40,   // Bastiodon
   564: 40,   // Tirtouga
+  565: 40,   // Carracosta
   566: 40,   // Archen
+  567: 40,   // Archeops
   570: 40,   // Zorua
+  571: 40,   // Zoroark
   624: 40,   // Pawniard
+  625: 40,   // Bisharp
 
     // 30 points
   37: 30,   // Vulpix
   58: 30,   // Growlithe
   83: 30,   // Farfetch'd
   102: 30,   // Exeggcute
+  103: 30,   // Exeggutor
   120: 30,   // Staryu
+  121: 30,   // Starmie
   124: 30,   // Jynx
+  238: 30,   // Smoochum
   126: 30,   // Magmar
+  240: 30,   // Magby
   128: 30,   // Tauros
   147: 30,   // Dratini
+  148: 30,   // Dragonair
+  149: 30,   // Dragonite
   161: 30,   // Sentret
+  162: 30,   // Furret
   165: 30,   // Ledyba
+  166: 30,   // Ledian
   191: 30,   // Sunkern
+  192: 30,   // Sunflora
   193: 30,   // Yanma
+  469: 30,   // Yanmega
   198: 30,   // Murkrow
+  430: 30,   // Honchkrow
   200: 30,   // Misdreavus
+  429: 30,   // Mismagius
   207: 30,   // Gligar
+  472: 30,   // Gliscor
   214: 30,   // Heracross
   223: 30,   // Remoraid
+  224: 30,   // Octillery
   225: 30,   // Delibird
   226: 30,   // Mantine
+  458: 30,   // Mantyke
   299: 30,   // Nosepass
+  476: 30,   // Probopass
   313: 30,   // Volbeat
   314: 30,   // Illumise
   318: 30,   // Carvanha
+  319: 30,   // Sharpedo
   320: 30,   // Wailmer
+  321: 30,   // Wailord
   331: 30,   // Cacnea
+  332: 30,   // Cacturne
   335: 30,   // Zangoose
   336: 30,   // Seviper
   339: 30,   // Barboach
@@ -120,181 +220,366 @@ export const tierPoints: Record<number, number> = {
   358: 30,   // Chimecho
   370: 30,   // Luvdisc
   425: 30,   // Drifloon
+  426: 30,   // Drifblim
   434: 30,   // Stunky
+  435: 30,   // Skuntank
   441: 30,   // Chatot
   443: 30,   // Gible
+  444: 30,   // Gabite
+  445: 30,   // Garchomp
   453: 30,   // Croagunk
+  454: 30,   // Toxicroak
   456: 30,   // Finneon
+  457: 30,   // Lumineon
   554: 30,   // Darumaka
+  555: 30,   // Darmanitan
   556: 30,   // Maractus
   561: 30,   // Sigilyph
   615: 30,   // Cryogonal
 
       // 15 points
   43: 15,   // Oddish
+  44: 15,   // Gloom
+  182: 15,   // Bellossom
   48: 15,   // Venonat
+  49: 15,   // Venomoth
   52: 15,   // Meowth
+  53: 15,   // Persian
   96: 15,   // Drowzee
+  97: 15,   // hypno
   125: 15,   // Electabuzz
+  239: 15,   // Elekid
+  466: 15,   // Electivire
   163: 15,   // Hoothoot
+  164: 15,   // Noctowl
   167: 15,   // Spinarak
+  168: 15,   // Ariados
   194: 15,   // Wooper
+  195: 15,   // Quagsire
   209: 15,   // Snubbull
+  210: 15,   // Granbull
   215: 15,   // Sneasel
+  461: 15,   // Weavile
   246: 15,   // Larvitar
+  247: 15,   // Pupitar
+  248: 15,   // Tyranitar
   270: 15,   // Lotad
+  271: 15,   // Lombre
+  272: 15,   // Ludicolo
   283: 15,   // Surskit
+  284: 15,   // Masquerain
   327: 15,   // Spinda
   328: 15,   // Trapinch
+  329: 15,   // Vibrava
+  330: 15,   // Flygon
   337: 15,   // Lunatone
   341: 15,   // Corphish
+  342: 15,   // Crawdaunt
   401: 15,   // Kricketot
+  402: 15,   // Kricketune
   417: 15,   // Pachirisu
   427: 15,   // Buneary
+  428: 15,   // Lopunny
   509: 15,   // Purrloin
+  510: 15,   // Liepard
   519: 15,   // Pidove
+  520: 15,   // Tranquill
+  521: 15,   // Unfezant
   559: 15,   // Scraggy
+  560: 15,   // Scrafty
   610: 15,   // Axew
+  611: 15,   // Fraxure
+  612: 15,   // Haxorus
   626: 15,   // Bouffalant
   627: 15,   // Rufflet
+  628: 15,   // Braviary
   631: 15,   // Heatmor
   633: 15,   // Deino
+  634: 15,   // Zweilous
+  635: 15,   // Hydreigon
 
         // 10 points
   10: 10,   // Caterpie
+  11: 10,   // metapod
+  12: 10,   // butterfree
   13: 10,   // Weedle
+  14: 10,   // kakuna
+  15: 10,   // beedrill
   25: 10,   // Pikachu
-  32: 10,   // Nidoran [M]
+  172: 10,   // Pichu
+  32: 10,   // Nidoran♂
   39: 10,   // Jigglypuff
+  174: 10,   // Igglybuff
   46: 10,   // Paras
+  47: 10,   // Parasect
   69: 10,   // Bellsprout
+  70: 10,   // weepinbell
   116: 10,   // Horsea
+  117: 10,   // Seadra
+  230: 10,   // Kingdra
   177: 10,   // Natu
+  178: 10,   // Xatu
   187: 10,   // Hoppip
+  188: 10,   // Skiploom
+  189: 10,   // Jumpluff
   216: 10,   // Teddiursa
+  217: 10,   // Ursaring
   265: 10,   // Wurmple
+  266: 10,   // Silcoon
+  267: 10,   // Beautifly
+  268: 10,   // Cascoon
+  269: 10,   // dustox
   276: 10,   // Taillow
+  277: 10,   // Swellow
   322: 10,   // Numel
+  323: 10,   // Camerupt
   333: 10,   // Swablu
+  334: 10,   // Altaria
   361: 10,   // Snorunt
+  362: 10,   // Glalie
+  478: 10,   // Froslass
   396: 10,   // Starly
+  397: 10,   // Staravia
+  398: 10,   // Staraptor
   449: 10,   // Hippopotas
+  450: 10,   // Hippowdon
   506: 10,   // Lillipup
+  507: 10,   // Herdier
+  508: 10,   // Stoutland
   532: 10,   // Timburr
+  533: 10,   // Gurdurr
+  534: 10,   // Conkeldurr
   538: 10,   // Throh
   539: 10,   // Sawk
   543: 10,   // Venipede
+  544: 10,   // Whirlipede
+  545: 10,   // Scolipede
   546: 10,   // Cottonee
   548: 10,   // Petilil
   557: 10,   // Dwebble
+  558: 10,   // Crustle
   568: 10,   // Trubbish
+  569: 10,   // Garbodor
   588: 10,   // Karrablast
+  589: 10,   // Escavalier
   590: 10,   // Foongus
+  591: 10,   // Amoonguss
   595: 10,   // Joltik
+  596: 10,   // Galvantula
   597: 10,   // Ferroseed
+  598: 10,   // Ferrothorn
   602: 10,   // Tynamo
+  603: 10,   // Eelektrik
+  604: 10,   // Eelektross
   613: 10,   // Cubchoo
+  614: 10,   // Beartic
   616: 10,   // Shelmet
+  617: 10,   // Accelgor
 
         // 5 points
   16: 5,   // Pidgey
+  17: 5,   // pidgeotto
+  22: 5,   // fearow
   21: 5,   // Spearow
   23: 5,   // Ekans
-  29: 5,   // Nidoran [F]
+  24: 5,   // arbok
+  29: 5,   // Nidoran♀
+  30: 5,   // Nidorina
+  33: 5,   // Nidorino
   50: 5,   // Diglett
+  51: 5,   // Dugtrio
   56: 5,   // Mankey
+  57: 5,   // primeape
   63: 5,   // Abra
+  64: 5,   // kadabra
   77: 5,   // Ponyta
+  78: 5,   // Rapidash
   84: 5,   // Doduo
+  85: 5,   // Dodrio
   88: 5,   // Grimer
+  89: 5,   // Muk
   104: 5,   // Cubone
+  105: 5,   // Marowak
   108: 5,   // Lickitung
+  463: 5,   // Lickilicky
   114: 5,   // Tangela
+  465: 5,   // Tangrowth
   132: 5,   // Ditto
   170: 5,   // Chinchou
+  171: 5,   // Lanturn
   179: 5,   // Mareep
+  180: 5,   // Flaaffy
+  181: 5,   // Ampharos
   218: 5,   // Slugma
+  219: 5,   // Magcargo
   231: 5,   // Phanpy
+  232: 5,   // Donphan
   234: 5,   // Stantler
   261: 5,   // Poochyena
+  262: 5,   // Mightyena
   263: 5,   // Zigzagoon
+  264: 5,   // Linoone
   278: 5,   // Wingull
+  279: 5,   // Pelipper
   293: 5,   // Whismur
+  294: 5,   // Loudred
+  295: 5,   // Exploud
   296: 5,   // Makuhita
+  297: 5,   // Hariyama
   302: 5,   // Sableye
   303: 5,   // Mawile
   304: 5,   // Aron
+  305: 5,   // Lairon
+  306: 5,   // Aggron
   309: 5,   // Electrike
+  310: 5,   // Manectric
   315: 5,   // Roselia
+  406: 5,   // Budew
+  407: 5,   // Roserade
   325: 5,   // Spoink
+  326: 5,   // Grumpig
   338: 5,   // Solrock
   366: 5,   // Clamperl
+  367: 5,   // Huntail
+  368: 5,   // Gorebyss
   399: 5,   // Bidoof
+  400: 5,   // Bibarel
   403: 5,   // Shinx
+  404: 5,   // Luxio
   459: 5,   // Snover
+  460: 5,   // Abomasnow
   504: 5,   // Patrat
+  505: 5,   // Watchhog
   517: 5,   // Munna
+  518: 5,   // Musharna
   522: 5,   // Blitzle
+  523: 5,   // Zebstrika
   524: 5,   // Roggenrola
+  525: 5,   // Boldore
+  526: 5,   // Gigalith
   527: 5,   // Woobat
+  528: 5,   // Swoobat
   535: 5,   // Tympole
+  536: 5,   // Palpitoad
+  537: 5,   // Seismitoad
   540: 5,   // Sewaddle
+  541: 5,   // Swadloon
+  542: 5,   // Leavanny
   572: 5,   // Minccino
+  573: 5,   // Cinccino
   574: 5,   // Gothita
+  575: 5,   // Gothorita
+  576: 5,   // Gothitelle
   577: 5,   // Solosis
+  578: 5,   // Duosion
+  579: 5,   // Reuniclus
   582: 5,   // Vanillite
+  583: 5,   // Vanillish
+  584: 5,   // Vanilluxe
   599: 5,   // Klink
+  600: 5,   // Klang
+  601: 5,   // Klinklang
   605: 5,   // Elgyem
+  606: 5,   // Beheeyem
   618: 5,   // Stunfisk
   621: 5,   // Druddigon
   629: 5,   // Vullaby
+  630: 5,   // Mandibuzz
   632: 5,   // Durant
 
           // 3 points
   19: 3,   // Rattata
+  20: 3,   // Raticate
   27: 3,   // Sandshrew
+  28: 3,   // Sandslash
   41: 3,   // Zubat
+  42: 3,   // golbat
   54: 3,   // Psyduck
+  55: 3,   // golduck
   60: 3,   // Poliwag
+  61: 3,   // poliwhirl
+  186: 3,   // Politoed
   66: 3,   // Machop
+  67: 3,   // Machoke
   72: 3,   // Tentacool
+  73: 3,   // tentacruel
   74: 3,   // Geodude
+  75: 3,   // gravveler
   79: 3,   // Slowpoke
+  80: 3,   // Slowbro
+  199: 3,   // Slowking
   81: 3,   // Magnemite
+  82: 3,   // Magnemite
+  462: 3,   // Magnezone
   86: 3,   // Seel
+  87: 3,   // Dewgong
   92: 3,   // Gastly
+  93: 3,   // Haunter
   95: 3,   // Onix
+  208: 3,   // Steelix
   98: 3,   // Krabby
+  99: 3,   // kingler
   100: 3,   // Voltorb
+  101: 3,   // Electrode
   109: 3,   // Koffing
+  110: 3,   // Weezing
   111: 3,   // Rhyhorn
+  112: 3,   // Rhydon
+  464: 3,   // Rhyperior
   118: 3,   // Goldeen
+  119: 3,   // Seaking
   129: 3,   // Magikarp
+  130: 3,   // Gyarados
   183: 3,   // Marill
+  298: 3,   // Azurill
+  184: 3,   // Azumarill
   201: 3,   // Unown
   202: 3,   // Wobbuffet
   203: 3,   // Girafarig
   206: 3,   // Dunsparce
   220: 3,   // Swinub
+  221: 3,   // Piloswine
+  473: 3,   // Mamoswine
   235: 3,   // Smeargle
   273: 3,   // Seedot
+  274: 3,   // Nuzleaf
+  275: 3,   // Shiftry
   307: 3,   // Meditite
+  308: 3,   // Medicham
   324: 3,   // Torkoal
   343: 3,   // Baltoy
+  344: 3,   // Claydol
   353: 3,   // Shuppet
+  354: 3,   // Banette
   355: 3,   // Duskull
+  356: 3,   // Dusclops
+  477: 3,   // Dusknoir
   363: 3,   // Spheal
+  364: 3,   // Sealeo
+  365: 3,   // Walrein
   418: 3,   // Buizel
+  419: 3,   // Floatzel
   422: 3,   // Shellos
+  423: 3,   // Gastrodon
   431: 3,   // Glameow
+  432: 3,   // Purugly
   436: 3,   // Bronzor
+  437: 3,   // Bronzong
   550: 3,   // Basculin
   551: 3,   // Sandile
+  552: 3,   // Krokorok
+  553: 3,   // Krookodile
   562: 3,   // Yamask
+  563: 3,   // Cofagrigus
   585: 3,   // Deerling
+  586: 3,   // Sawsbuck
   592: 3,   // Frillish
+  593: 3,   // Jellicent
   607: 3,   // Litwick
+  608: 3,   // Lampent
+  609: 3,   // Chandelure
   619: 3,   // Mienfoo
+  620: 3,   // Mienshao
   622: 3   // Golett
 
 };
