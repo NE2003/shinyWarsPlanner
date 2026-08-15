@@ -36,9 +36,9 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "12.5%",
-          "day": "12.5%",
-          "night": "12.5%"
+          "morning": "33.33%",
+          "day": "50%",
+          "night": "33.33%"
         },
         "hordeType": "3x"
       },
@@ -49,9 +49,9 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
-          "night": "14.28%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "33.33%"
         },
         "hordeType": "3x"
       },
@@ -101,8 +101,8 @@
         "locationID": 34,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -114,8 +114,8 @@
         "locationID": 35,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -127,8 +127,8 @@
         "locationID": 35,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -262,9 +262,9 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "12.5%",
-          "day": "12.5%",
-          "night": "12.5%"
+          "morning": "33.33%",
+          "day": "50%",
+          "night": "33.33%"
         },
         "hordeType": "3x"
       },
@@ -275,9 +275,9 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
-          "night": "14.28%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "33.33%"
         },
         "hordeType": "3x"
       },
@@ -327,8 +327,8 @@
         "locationID": 34,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -340,8 +340,8 @@
         "locationID": 35,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -436,8 +436,8 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
+          "morning": "33.33%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -449,8 +449,8 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -462,8 +462,8 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -475,8 +475,8 @@
         "locationID": 5123,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -566,8 +566,8 @@
         "locationID": 33,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -579,8 +579,8 @@
         "locationID": 34,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -592,8 +592,8 @@
         "locationID": 35,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -903,9 +903,9 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "33.33%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -916,9 +916,9 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -929,9 +929,9 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -942,9 +942,9 @@
         "locationID": 5123,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -1059,9 +1059,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -1072,9 +1072,9 @@
         "locationID": 152,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -1137,9 +1137,9 @@
         "locationID": 33,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -1150,9 +1150,9 @@
         "locationID": 33,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -1163,9 +1163,9 @@
         "locationID": 33,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -1176,9 +1176,9 @@
         "locationID": 34,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -1189,9 +1189,9 @@
         "locationID": 34,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -1202,9 +1202,9 @@
         "locationID": 35,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -1241,9 +1241,9 @@
         "locationID": 48,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -2189,8 +2189,8 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -2228,8 +2228,8 @@
         "locationID": 48,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -2811,9 +2811,9 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -2824,9 +2824,9 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4142,9 +4142,9 @@
         "locationID": 5123,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4181,9 +4181,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4310,9 +4310,9 @@
         "locationID": 5123,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4349,9 +4349,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4711,9 +4711,9 @@
         "locationID": 152,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4737,9 +4737,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4750,9 +4750,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -4776,9 +4776,9 @@
         "locationID": 319,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5861,9 +5861,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5874,9 +5874,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5900,9 +5900,9 @@
         "locationID": 198,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5913,9 +5913,9 @@
         "locationID": 198,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5926,9 +5926,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5939,9 +5939,9 @@
         "locationID": 198,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -5952,9 +5952,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5965,9 +5965,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -5993,7 +5993,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -6006,7 +6006,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -6032,7 +6032,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -6251,9 +6251,9 @@
         "locationID": 176,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -6264,9 +6264,9 @@
         "locationID": 176,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -6277,9 +6277,9 @@
         "locationID": 176,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -10204,7 +10204,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "20%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -10217,7 +10217,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -11835,9 +11835,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -11848,9 +11848,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -11861,9 +11861,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -11913,9 +11913,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -11926,9 +11926,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -11939,9 +11939,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -13810,9 +13810,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -14129,7 +14129,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -14142,7 +14142,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "20%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -14789,9 +14789,9 @@
         "locationID": 344,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -15931,8 +15931,8 @@
         "locationID": 5123,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -16048,8 +16048,8 @@
         "locationID": 35,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -22312,9 +22312,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22325,9 +22325,9 @@
         "locationID": 258,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22338,9 +22338,9 @@
         "locationID": 198,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22351,9 +22351,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22364,9 +22364,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22377,9 +22377,9 @@
         "locationID": 198,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -22390,9 +22390,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22403,9 +22403,9 @@
         "locationID": 254,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22637,9 +22637,9 @@
         "locationID": 176,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22650,9 +22650,9 @@
         "locationID": 176,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22663,9 +22663,9 @@
         "locationID": 176,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -22767,22 +22767,9 @@
         "locationID": 48,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Johto",
-        "location": "Route 46",
-        "locationID": 48,
-        "method": "Sweet Scent",
-        "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22793,9 +22780,22 @@
         "locationID": 48,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Winter",
+        "region": "Johto",
+        "location": "Route 46",
+        "locationID": 48,
+        "method": "Sweet Scent",
+        "encounterRate": {
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -22806,9 +22806,9 @@
         "locationID": 48,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -24300,9 +24300,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -24534,9 +24534,9 @@
         "locationID": 48,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       }
@@ -26318,9 +26318,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -26331,9 +26331,9 @@
         "locationID": 10499,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       }
@@ -31319,9 +31319,9 @@
         "locationID": 198,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -31332,9 +31332,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -31345,9 +31345,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -31358,9 +31358,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -31371,9 +31371,9 @@
         "locationID": 199,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -35777,7 +35777,7 @@
         "locationID": 4867,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
+          "morning": "33.33%",
           "day": "--",
           "night": "--"
         },
@@ -35790,7 +35790,7 @@
         "locationID": 33,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
+          "morning": "50%",
           "day": "--",
           "night": "--"
         },
@@ -35856,7 +35856,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -35869,7 +35869,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -35882,7 +35882,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -35895,7 +35895,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -35960,7 +35960,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "14.28%"
+          "night": "33.33%"
         },
         "hordeType": "3x"
       },
@@ -35973,7 +35973,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -36025,7 +36025,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -36038,7 +36038,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -36051,7 +36051,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -36064,7 +36064,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "20%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -36077,7 +36077,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "33.33%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -36090,7 +36090,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "16.66%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -36412,7 +36412,7 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
+          "morning": "50%",
           "day": "--",
           "night": "--"
         },
@@ -36425,59 +36425,7 @@
         "locationID": 1,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "12.5%",
-          "day": "--",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Spring",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "5%",
-          "day": "--",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Summer",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "5%",
-          "day": "--",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Autumn",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "5%",
-          "day": "--",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "5%",
+          "morning": "33.33%",
           "day": "--",
           "night": "--"
         },
@@ -36503,7 +36451,7 @@
         "locationID": 34,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
+          "morning": "50%",
           "day": "--",
           "night": "--"
         },
@@ -36582,59 +36530,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "12.5%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Spring",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "--",
-          "night": "5%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Summer",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "--",
-          "night": "5%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Autumn",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "--",
-          "night": "5%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "--",
-          "night": "5%"
+          "night": "33.33%"
         },
         "hordeType": "3x"
       },
@@ -36660,7 +36556,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "20%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -37278,9 +37174,9 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -38135,8 +38031,8 @@
         "locationID": 33,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
+          "morning": "50%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -38348,58 +38244,6 @@
     "id": 191,
     "name": "Sunkern",
     "locations": [
-      {
-        "season": "Spring",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "5%",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Summer",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "5%",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Autumn",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "5%",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Johto",
-        "location": "National Park",
-        "locationID": 487,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "--",
-          "day": "5%",
-          "night": "--"
-        },
-        "hordeType": "3x"
-      },
       {
         "season": "Spring",
         "region": "Johto",
@@ -43150,9 +42994,9 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43163,9 +43007,9 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43176,9 +43020,9 @@
         "locationID": 4146,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43189,9 +43033,9 @@
         "locationID": 4146,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43202,9 +43046,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43215,22 +43059,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Hoenn",
-        "location": "Route 103",
-        "locationID": 4658,
-        "method": "Sweet Scent",
-        "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43241,9 +43072,22 @@
         "locationID": 4658,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Winter",
+        "region": "Hoenn",
+        "location": "Route 103",
+        "locationID": 4658,
+        "method": "Sweet Scent",
+        "encounterRate": {
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43254,9 +43098,9 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43370,9 +43214,9 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43383,9 +43227,9 @@
         "locationID": 4146,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43396,22 +43240,9 @@
         "locationID": 4146,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Hoenn",
-        "location": "Route 103",
-        "locationID": 4658,
-        "method": "Sweet Scent",
-        "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43422,22 +43253,22 @@
         "locationID": 4658,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
       {
         "season": "Winter",
         "region": "Hoenn",
-        "location": "Route 104",
-        "locationID": 4914,
+        "location": "Route 103",
+        "locationID": 4658,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43448,9 +43279,22 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Winter",
+        "region": "Hoenn",
+        "location": "Route 104",
+        "locationID": 4914,
+        "method": "Sweet Scent",
+        "encounterRate": {
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43590,9 +43434,9 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43603,9 +43447,9 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43616,9 +43460,9 @@
         "locationID": 4146,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43629,9 +43473,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43642,9 +43486,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43681,22 +43525,9 @@
         "locationID": 345,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
-          "night": "14.28%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Autumn",
-        "region": "Sinnoh",
-        "location": "Route 204 (South)",
-        "locationID": 345,
-        "method": "Sweet Scent",
-        "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "33.33%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43707,9 +43538,22 @@
         "locationID": 345,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Autumn",
+        "region": "Sinnoh",
+        "location": "Route 204 (South)",
+        "locationID": 345,
+        "method": "Sweet Scent",
+        "encounterRate": {
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43739,8 +43583,8 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
+          "morning": "50%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -43803,9 +43647,9 @@
         "locationID": 2890,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
+          "morning": "50%",
           "day": "--",
-          "night": "25%"
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -43880,9 +43724,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "12.5%",
-          "day": "12.5%",
-          "night": "12.5%"
+          "morning": "33.33%",
+          "day": "33.33%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -43893,9 +43737,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -44022,9 +43866,9 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "12.5%",
-          "day": "12.5%",
-          "night": "12.5%"
+          "morning": "33.33%",
+          "day": "33.33%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -44151,8 +43995,8 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -44164,8 +44008,8 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -44423,8 +44267,8 @@
         "locationID": 4658,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -44436,8 +44280,8 @@
         "locationID": 4658,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -44449,8 +44293,8 @@
         "locationID": 4658,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -44501,8 +44345,8 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -45891,8 +45735,8 @@
         "locationID": 4402,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "12.5%",
-          "day": "12.5%",
+          "morning": "33.33%",
+          "day": "33.33%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -52297,9 +52141,9 @@
         "locationID": 4914,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53095,8 +52939,8 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53108,8 +52952,8 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
+          "morning": "33.33%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53121,8 +52965,8 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53134,8 +52978,8 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53147,8 +52991,8 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
+          "morning": "33.33%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53160,8 +53004,8 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53173,9 +53017,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53186,8 +53030,8 @@
         "locationID": 344,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
+          "morning": "100%",
+          "day": "100%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53199,8 +53043,8 @@
         "locationID": 344,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
+          "morning": "50%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -53380,9 +53224,9 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
-          "night": "14.28%"
+          "morning": "33.33%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53393,9 +53237,9 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -53406,9 +53250,9 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -53419,9 +53263,9 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -53432,9 +53276,9 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
-          "night": "14.28%"
+          "morning": "33.33%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53445,9 +53289,9 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -53458,9 +53302,9 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -53471,9 +53315,9 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -53484,9 +53328,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53523,9 +53367,9 @@
         "locationID": 345,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53808,9 +53652,9 @@
         "locationID": 311,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
+          "morning": "33.33%",
           "day": "--",
-          "night": "14.28%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53821,9 +53665,9 @@
         "locationID": 342,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
+          "morning": "33.33%",
           "day": "--",
-          "night": "14.28%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53834,9 +53678,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
+          "morning": "50%",
           "day": "--",
-          "night": "20%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -53860,9 +53704,9 @@
         "locationID": 345,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
+          "morning": "33.33%",
           "day": "--",
-          "night": "14.28%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -54067,9 +53911,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -54080,9 +53924,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -54093,9 +53937,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "20%",
-          "day": "20%",
-          "night": "20%"
+          "morning": "50%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -54106,9 +53950,9 @@
         "locationID": 343,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -54119,9 +53963,9 @@
         "locationID": 344,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -54132,9 +53976,9 @@
         "locationID": 344,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -54158,9 +54002,9 @@
         "locationID": 345,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -54339,8 +54183,8 @@
         "locationID": 345,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "14.28%",
-          "day": "14.28%",
+          "morning": "33.33%",
+          "day": "50%",
           "night": "--"
         },
         "hordeType": "3x"
@@ -57170,19 +57014,6 @@
         "hordeType": "5x"
       },
       {
-        "season": "Winter",
-        "region": "Unova",
-        "location": "Icirrus City",
-        "locationID": 113,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "2%",
-          "day": "2%",
-          "night": "2%"
-        },
-        "hordeType": "5x"
-      },
-      {
         "season": "Spring",
         "region": "Unova",
         "location": "Moor of Icirrus",
@@ -57196,33 +57027,7 @@
         "hordeType": "5x"
       },
       {
-        "season": "Winter",
-        "region": "Unova",
-        "location": "Moor of Icirrus",
-        "locationID": 346,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "2%",
-          "day": "2%",
-          "night": "2%"
-        },
-        "hordeType": "5x"
-      },
-      {
         "season": "Spring",
-        "region": "Unova",
-        "location": "Route 8",
-        "locationID": 345,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "2%",
-          "day": "2%",
-          "night": "2%"
-        },
-        "hordeType": "5x"
-      },
-      {
-        "season": "Winter",
         "region": "Unova",
         "location": "Route 8",
         "locationID": 345,
@@ -57441,9 +57246,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57454,9 +57259,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57467,22 +57272,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
-        },
-        "hordeType": "3x"
-      },
-      {
-        "season": "Winter",
-        "region": "Unova",
-        "location": "Route 2",
-        "locationID": 319,
-        "method": "Sweet Scent",
-        "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57493,9 +57285,22 @@
         "locationID": 319,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Winter",
+        "region": "Unova",
+        "location": "Route 2",
+        "locationID": 319,
+        "method": "Sweet Scent",
+        "encounterRate": {
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57506,9 +57311,9 @@
         "locationID": 319,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -57687,9 +57492,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57700,9 +57505,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57713,9 +57518,9 @@
         "locationID": 317,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57726,9 +57531,9 @@
         "locationID": 319,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "25%",
-          "day": "25%",
-          "night": "25%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57883,7 +57688,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -57896,7 +57701,7 @@
         "encounterRate": {
           "morning": "--",
           "day": "--",
-          "night": "25%"
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -58062,9 +57867,9 @@
         "locationID": 152,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -58075,9 +57880,9 @@
         "locationID": 152,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "16.66%",
-          "day": "16.66%",
-          "night": "16.66%"
+          "morning": "50%",
+          "day": "50%",
+          "night": "50%"
         },
         "hordeType": "3x"
       },
@@ -58088,9 +57893,9 @@
         "locationID": 152,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -58101,9 +57906,9 @@
         "locationID": 152,
         "method": "Sweet Scent",
         "encounterRate": {
-          "morning": "33.33%",
-          "day": "33.33%",
-          "night": "33.33%"
+          "morning": "100%",
+          "day": "100%",
+          "night": "100%"
         },
         "hordeType": "3x"
       },
@@ -59657,19 +59462,6 @@
       },
       {
         "season": "Spring",
-        "region": "Unova",
-        "location": "Icirrus City",
-        "locationID": 113,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "3%",
-          "day": "3%",
-          "night": "3%"
-        },
-        "hordeType": "5x"
-      },
-      {
-        "season": "Winter",
         "region": "Unova",
         "location": "Icirrus City",
         "locationID": 113,
@@ -63027,6 +62819,64 @@
     ]
   },
   {
+    "id": 570,
+    "name": "Zorua",
+    "locations": [
+      {
+        "season": "Spring",
+        "region": "Unova",
+        "location": "Lostlorn Forest",
+        "locationID": 385,
+        "method": "Grass",
+        "encounterRate": {
+          "morning": "???",
+          "day": "???",
+          "night": "???"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Summer",
+        "region": "Unova",
+        "location": "Lostlorn Forest",
+        "locationID": 385,
+        "method": "Grass",
+        "encounterRate": {
+          "morning": "???",
+          "day": "???",
+          "night": "???"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Autumn",
+        "region": "Unova",
+        "location": "Lostlorn Forest",
+        "locationID": 385,
+        "method": "Grass",
+        "encounterRate": {
+          "morning": "???",
+          "day": "???",
+          "night": "???"
+        },
+        "hordeType": "3x"
+      },
+      {
+        "season": "Winter",
+        "region": "Unova",
+        "location": "Lostlorn Forest",
+        "locationID": 385,
+        "method": "Grass",
+        "encounterRate": {
+          "morning": "???",
+          "day": "???",
+          "night": "???"
+        },
+        "hordeType": "3x"
+      }
+    ]
+  },
+  {
     "id": 572,
     "name": "Minccino",
     "locations": [
@@ -63879,19 +63729,6 @@
       },
       {
         "season": "Spring",
-        "region": "Unova",
-        "location": "Moor of Icirrus",
-        "locationID": 346,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "1.5%",
-          "day": "1.5%",
-          "night": "1.5%"
-        },
-        "hordeType": "5x"
-      },
-      {
-        "season": "Winter",
         "region": "Unova",
         "location": "Moor of Icirrus",
         "locationID": 346,
@@ -65248,19 +65085,6 @@
         "hordeType": "5x"
       },
       {
-        "season": "Winter",
-        "region": "Unova",
-        "location": "Moor of Icirrus",
-        "locationID": 346,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "1.5%",
-          "day": "1.5%",
-          "night": "1.5%"
-        },
-        "hordeType": "5x"
-      },
-      {
         "season": "Summer",
         "region": "Unova",
         "location": "Moor of Icirrus",
@@ -65398,19 +65222,6 @@
       },
       {
         "season": "Spring",
-        "region": "Unova",
-        "location": "Route 8",
-        "locationID": 345,
-        "method": "Grass",
-        "encounterRate": {
-          "morning": "3%",
-          "day": "3%",
-          "night": "3%"
-        },
-        "hordeType": "5x"
-      },
-      {
-        "season": "Winter",
         "region": "Unova",
         "location": "Route 8",
         "locationID": 345,
